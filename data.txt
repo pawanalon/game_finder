@@ -1,0 +1,1 @@
+[{"name": "chess", "min_players": 2, "max_players": 4, "duration": 60, "min_age": 8}, {"name": "ludoo", "min_players": 6, "max_players": 12, "duration": 45, "min_age": 10}, {"name": "kho kho", "min_players": 10, "max_players": 15, "duration": 60, "min_age": 18}, {"name": "pubg", "min_players": 1, "max_players": 4, "duration": 30, "min_age": 18}]
